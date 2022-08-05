@@ -33,5 +33,4 @@ if st.button('Ready to roll 🎲?'):
     st.markdown(f"It is {dish['category']} coming from {dish['type']} cusine.")
     st.markdown(f"If you want to know details use this [link]({dish['url']})")
 
-
-st.caption("Powered by themealdb.com")
+st.caption("Powered by [themealdb](https://www.themealdb.com/api.php) and created by [Percival33💙](https://github.com/Percival33)")
