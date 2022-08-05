@@ -7,7 +7,7 @@ st.set_page_config(page_title="Food randomizer", page_icon="🥦")
 
 st.title('🧀 Food randomizer 🥑')
 
-st.header("Just click a button to see what I've chose specially for you!")
+st.header("Just click a button to see what I've chosen specially for you!")
 
 
 def get_dish(): 
